@@ -6,7 +6,7 @@
   <link href="https://github.com/KyokoK2/portfolio.github.io.git/atom.xml" rel="self"/>
   
   <link href="https://github.com/KyokoK2/portfolio.github.io.git/"/>
-  <updated>2020-10-15T11:52:46.330Z</updated>
+  <updated>2020-10-15T12:14:14.176Z</updated>
   <id>https://github.com/KyokoK2/portfolio.github.io.git/</id>
   
   <author>
@@ -21,14 +21,14 @@
     <link href="https://github.com/KyokoK2/portfolio.github.io.git/2020/10/15/town/"/>
     <id>https://github.com/KyokoK2/portfolio.github.io.git/2020/10/15/town/</id>
     <published>2020-10-15T11:47:34.000Z</published>
-    <updated>2020-10-15T11:52:46.330Z</updated>
+    <updated>2020-10-15T12:14:14.176Z</updated>
     
-    <content type="html"><![CDATA[<p>test image</p>]]></content>
+    <content type="html"><![CDATA[<img src="portfolio.github.io/2020/10/15/town/hoge.jpg" class=""><p>test image</p>]]></content>
     
     
       
       
-    <summary type="html">
+    <summary type="html">&lt;img src=&quot;portfolio.github.io/2020/10/15/town/hoge.jpg&quot; class=&quot;&quot;&gt;
 
 &lt;p&gt;test image&lt;/p&gt;
 </summary>
@@ -44,9 +44,9 @@
     <link href="https://github.com/KyokoK2/portfolio.github.io.git/2020/10/14/BOOK/"/>
     <id>https://github.com/KyokoK2/portfolio.github.io.git/2020/10/14/BOOK/</id>
     <published>2020-10-14T12:44:52.000Z</published>
-    <updated>2020-10-15T11:36:56.362Z</updated>
+    <updated>2020-10-15T12:13:20.032Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="GitHubを使って、Hexoで作成したブログをあげてみました。"><a href="#GitHubを使って、Hexoで作成したブログをあげてみました。" class="headerlink" title="GitHubを使って、Hexoで作成したブログをあげてみました。"></a>GitHubを使って、Hexoで作成したブログをあげてみました。</h1><hr><p><img src="/images/hoge.jpeg" alt="town"></p><p>タイトルのBOOKは本好きなので。<br>ジャンルはSF、技術書、ミステリーをよく読みます。<br>今はハッキングラボをやってます。</p><hr><ul><li>◇GAMEも好きです。<ul><li>ＦＦ１４</li><li>ゼノブレイドＤＥ</li><li>ＤＡＲＫ　ＳＯＵＬＳ</li><li>Ｇｗｅｎｔ</li></ul></li></ul><p>あたりをPLAYしてます。</p><p>英語の勉強で<code>Google　Word　Corch</code>にもはまってます。<br>友達と会話するだけじゃなくて、上手くなりたいです。</p><p>最後まで読んで下って<strong>ありがとう</strong>ございました。</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="GitHubを使って、Hexoで作成したブログをあげてみました。"><a href="#GitHubを使って、Hexoで作成したブログをあげてみました。" class="headerlink" title="GitHubを使って、Hexoで作成したブログをあげてみました。"></a>GitHubを使って、Hexoで作成したブログをあげてみました。</h1><hr><p>タイトルのBOOKは本好きなので。<br>ジャンルはSF、技術書、ミステリーをよく読みます。<br>今はハッキングラボをやってます。</p><hr><ul><li>◇GAMEも好きです。<ul><li>ＦＦ１４</li><li>ゼノブレイドＤＥ</li><li>ＤＡＲＫ　ＳＯＵＬＳ</li><li>Ｇｗｅｎｔ</li></ul></li></ul><p>あたりをPLAYしてます。</p><p>英語の勉強で<code>Google　Word　Corch</code>にもはまってます。<br>友達と会話するだけじゃなくて、上手くなりたいです。</p><p>最後まで読んで下って<strong>ありがとう</strong>ございました。</p>]]></content>
     
     
       
