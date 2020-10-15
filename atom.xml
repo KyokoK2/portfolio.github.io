@@ -23,12 +23,12 @@
     <published>2020-10-15T11:47:34.000Z</published>
     <updated>2020-10-15T12:14:14.176Z</updated>
     
-    <content type="html"><![CDATA[<img src="portfolio.github.io/2020/10/15/town/hoge.jpg" class=""><p>test image</p>]]></content>
+    <content type="html"><![CDATA[<img src="/2020/10/15/town/hoge.jpg" class=""><p>test image</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;img src=&quot;portfolio.github.io/2020/10/15/town/hoge.jpg&quot; class=&quot;&quot;&gt;
+    <summary type="html">&lt;img src=&quot;/2020/10/15/town/hoge.jpg&quot; class=&quot;&quot;&gt;
 
 &lt;p&gt;test image&lt;/p&gt;
 </summary>
